@@ -2,8 +2,10 @@ This repository provides mathematical validation and test coverage.
 It does NOT constitute a production-ready cryptographic library.
 
 # Shamir Validation Suite
-
 A mathematical validation and audit package for Shamir Secret Sharing.
+
+See the formal validation report in [reports/validation.md](reports/validation.md).
+
 
 ## Mathematical Proof of Reconstruction
 Shamir Secret Sharing is based on Lagrange interpolation at x=0.
