@@ -20,7 +20,6 @@ subset = points[:THRESHOLD]
 recovered = lagrange_interpolate_zero(subset, FIELD)
 
 # For audit purposes only — do not log secrets in production
-
 print("Original secret: [REDACTED]")
 print("Recovered secret: [REDACTED]")
 
