@@ -27,7 +27,7 @@ declined, etc.
 If you discover a security vulnerability in this repository, please report it privately.
 
 - Use GitHub's private vulnerability reporting feature (enabled).
-- Alternatively, contact: shamircrackerlab@protonmail.com
+- Alternatively, contact: shamircrackerlab@gmail.com
 - Do not open public issues for security concerns.
 
 We aim to respond within 48 hours and resolve valid reports promptly.
